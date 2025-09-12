@@ -256,7 +256,7 @@ Contact Address: Tejas Residency, Flat No. 302, Mansarovar, Jaipur, Rajasthan-30
                   <div className="contact-icon">📧</div>
                   <div className="contact-details">
                     <h4>Email</h4>
-                    <p className="email-address">rekhabhatt.arekham@arekhamitconsultancyandservices.co</p>
+                    <p className="email-address">rekhabhatt.arekham@arekhamitconsultancyandservices.com</p>
                   </div>
                 </div>
                 
@@ -272,7 +272,7 @@ Contact Address: Tejas Residency, Flat No. 302, Mansarovar, Jaipur, Rajasthan-30
                   <div className="contact-icon">🌍</div>
                   <div className="contact-details">
                     <h4>Website</h4>
-                    <p>www.arekham.com</p>
+                    <p>www.arekhamitconsultancyandservices.com</p>
                   </div>
                 </div>
                 
